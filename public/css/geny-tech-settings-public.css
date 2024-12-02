@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.addon-products {
+    margin: 30px 0;
+}
+
+.addon-products label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.addon-products h4 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.warranty-section {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-bottom: 30px;
+
+    display: flex;
+    align-items: center;
+}
+
+.warranty-section .amount,
+.warranty-section .warranty-product p{
+    padding: 10px;
+}
+.warranty-section .warranty-product h4{
+    padding-left: 10px;
+}
+.warranty-section .warranty-product p{
+    margin: 0 !important;
+}
+.warranty-section input{
+    margin: 0 30px 0 20px;
+}
