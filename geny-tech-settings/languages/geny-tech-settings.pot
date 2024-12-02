@@ -1,0 +1,8 @@
+msgid "Add-On Products"
+msgstr ""
+
+msgid "Select add-on products:"
+msgstr ""
+
+msgid "Hold down the CTRL (Windows) / Command (Mac) key to select multiple products."
+msgstr ""
